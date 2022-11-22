@@ -33,12 +33,13 @@ const employeeSchema = new mongoose.Schema({
     confirmpassword: {
         type:String,
         required:true
-    },
-    tokens:[{
-        token:{
-            type:String,
-            required:true
-        }
-    }]
+    }
+   
     
 })
+
+//we need to create a collection
+
+const Register = new mongoose.model("Register",employeeSchema );
+
+module.exports = Register;
