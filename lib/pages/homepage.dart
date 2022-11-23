@@ -17,6 +17,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text("My Attendance"),
+        
       ),
       body: Center(
         child: Padding(
