@@ -1,6 +1,6 @@
 # Minor_Project1
 
-# SMART ATTENDANCE SYSTEM USING QR SCAN(MYCLASS)
+# SMART ATTENDANCE SYSTEM USING QR SCAN(MY_CLASS)
 Smart attendance system Helping students and Teachers to overcome the traditional method of taking attendance.
 
 # Components
