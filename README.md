@@ -27,3 +27,11 @@ and the student identity it has collected.
 In this manner, this method will not only save the time but also the effort that lecturers were 
 expected to put in during each lesson. It will expedite the taking of attendance and offer plenty 
 of time for the lecture to be delivered appropriately.
+
+# Existing System
+There are many proposals for Automatic Attendance Systems in the literature and in the market. 
+The majority of them do concentrate on installing software on the lecturer's device, whether it 
+be a laptop or a smartphone. By using a 
+Bluetooth connection, it makes it possible to communicate with student's mobile phones and 
+confirm their presence by sending their Media Access Control (MAC) addresses to the 
+instructor's mobile phone.
